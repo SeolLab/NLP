@@ -1,4 +1,4 @@
-# [2024] NLP 실습 프로젝트 
+# [2024] NLP Project 
 
 ### 1. Analyzing Text Data (using nltk, tokenization, Stemming and Lemmatization etc...)  
 
